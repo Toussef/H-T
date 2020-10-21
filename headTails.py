@@ -14,3 +14,5 @@ if fiftyFifty == 1:
     
 else:
     print('Tails')
+    
+    #is it truly fair though?
